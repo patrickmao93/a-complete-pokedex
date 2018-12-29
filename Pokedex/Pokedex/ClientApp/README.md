@@ -1,6 +1,3 @@
-# A Complete Pokedex App
-
-This application aims to create a Pokedex that also has the option for users to create and customize their own teams based on popular competitive choices.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
